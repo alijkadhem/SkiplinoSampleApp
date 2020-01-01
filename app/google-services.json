@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458561170787",
+    "firebase_url": "https://skiplino-app-e4a2f.firebaseio.com",
+    "project_id": "skiplino-app-e4a2f",
+    "storage_bucket": "skiplino-app-e4a2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458561170787:android:525b2cf3486aaec8f7b756",
+        "android_client_info": {
+          "package_name": "com.example.skiplinoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458561170787-ncmuo3lgsd871bv01lacn6il2tbuivcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD13NzqeONNMYdIKJ7aBVL9XmKCohlyrqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458561170787-ncmuo3lgsd871bv01lacn6il2tbuivcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
